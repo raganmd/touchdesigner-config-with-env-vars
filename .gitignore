@@ -5,4 +5,4 @@
 *.DS_STORE
 
 # python cahce files | Byte-compiled / optimized / DLL files
-*__pycache__/*
+*/__pycache__/*
